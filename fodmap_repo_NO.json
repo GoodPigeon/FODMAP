@@ -1,0 +1,5101 @@
+[
+    {
+        "id": "1",
+        "name": "Polenta",
+        "fodmap": "Lav",
+        "category": "Brød, frokostblandinger, korn og pasta",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "2",
+        "name": "Fenikkel",
+        "fodmap": "Lav",
+        "category": "Grønnsaker og belgfrukter",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "3",
+        "name": "Vegetabilsk olje",
+        "fodmap": "Lav",
+        "category": "Matlagingredienser, urter og krydder",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "4",
+        "name": "Peanøttolje",
+        "fodmap": "Lav",
+        "category": "Matlagingredienser, urter og krydder",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "5",
+        "name": "Kakaopulver",
+        "fodmap": "Lav",
+        "category": "Matlagingredienser, urter og krydder",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "6",
+        "name": "Ananas",
+        "fodmap": "Lav",
+        "category": "Frukt",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "7",
+        "name": "Hummus",
+        "fodmap": "Høy",
+        "category": "Kondimenter",
+        "details": {
+            "oligos": 2,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "8",
+        "name": "Pulverkaffe (bare hvis det ikke er laget med laktose eller andre FODMAPS)",
+        "fodmap": "Lav",
+        "category": "Drikkevarer",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "9",
+        "name": "Kaffe (vanlig eller koffeinfri)",
+        "fodmap": "Lav",
+        "category": "Drikkevarer",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "10",
+        "name": "Tofu (drenert eller fast)",
+        "fodmap": "Lav",
+        "category": "Kjøtt og erstatninger",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "11",
+        "name": "Rapsolje",
+        "fodmap": "Lav",
+        "category": "Matlagingredienser, urter og krydder",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "12",
+        "name": "Rosenkål",
+        "fodmap": "Lav",
+        "category": "Grønnsaker og belgfrukter",
+        "qty": "2",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "1. 3",
+        "name": "Peanøttsmør",
+        "fodmap": "Lav",
+        "category": "Kondimenter",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "14",
+        "name": "Mandelsmør",
+        "fodmap": "Lav",
+        "category": "Matlagingredienser, urter og krydder",
+        "qty": "1 ss",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "15",
+        "name": "Tang / nori",
+        "fodmap": "Lav",
+        "category": "Grønnsaker og belgfrukter",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "16",
+        "name": "Pinjekjerner",
+        "fodmap": "Lav",
+        "category": "Nøtter og frø",
+        "qty": "15",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "17",
+        "name": "Lime juice",
+        "fodmap": "Lav",
+        "category": "Matlagingredienser, urter og krydder",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "18",
+        "name": "Lime",
+        "fodmap": "Lav",
+        "category": "Frukt",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "19",
+        "name": "Fiken, tørket",
+        "fodmap": "Høy",
+        "category": "Frukt",
+        "details": {
+            "oligos": 2,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "20",
+        "name": "Bladbete",
+        "fodmap": "Lav",
+        "category": "Grønnsaker og belgfrukter",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "21",
+        "name": "Ingefær",
+        "fodmap": "Lav",
+        "category": "Grønnsaker og belgfrukter",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "22",
+        "name": "Kokosolje",
+        "fodmap": "Lav",
+        "category": "Matlagingredienser, urter og krydder",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "23",
+        "name": "Kamskjell",
+        "fodmap": "Lav",
+        "category": "Kjøtt og erstatninger",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "24",
+        "name": "Linfrø / lined",
+        "fodmap": "Lav",
+        "category": "Nøtter og frø",
+        "qty": "1 teskje",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "25",
+        "name": "Purre",
+        "fodmap": "Høy",
+        "category": "Grønnsaker og belgfrukter",
+        "details": {
+            "oligos": 2,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "26",
+        "name": "Knutekål",
+        "fodmap": "Lav",
+        "category": "Grønnsaker og belgfrukter",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "27",
+        "name": "Kirsebær",
+        "fodmap": "Høy",
+        "category": "Frukt",
+        "details": {
+            "oligos": 0,
+            "fructose": 2,
+            "polyols": 1,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "28",
+        "name": "Bakepulver",
+        "fodmap": "Lav",
+        "category": "Matlagingredienser, urter og krydder",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "29",
+        "name": "Gurkemeie",
+        "fodmap": "Lav",
+        "category": "Matlagingredienser, urter og krydder",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "30",
+        "name": "Bakepulver",
+        "fodmap": "Lav",
+        "category": "Matlagingredienser, urter og krydder",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "31",
+        "name": "Gresskarfrø",
+        "fodmap": "Lav",
+        "category": "Nøtter og frø",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "32",
+        "name": "Granateple",
+        "fodmap": "Høy",
+        "category": "Frukt",
+        "details": {
+            "oligos": 2,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "33",
+        "name": "Pintobønner",
+        "fodmap": "Høy",
+        "category": "Grønnsaker og belgfrukter",
+        "details": {
+            "oligos": 2,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "34",
+        "name": "Daddler",
+        "fodmap": "Høy",
+        "category": "Frukt",
+        "details": {
+            "oligos": 2,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "35",
+        "name": "Karripulver",
+        "fodmap": "Lav",
+        "category": "Matlagingredienser, urter og krydder",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "36",
+        "name": "Kokosnøttsukker",
+        "fodmap": "Lav",
+        "category": "Søtstoffer",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "37",
+        "name": "Kokosnøttkrem",
+        "fodmap": "Lav",
+        "category": "Melk",
+        "qty": "1/2 kopp",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "38",
+        "name": "Eddik",
+        "fodmap": "Lav",
+        "category": "Kondimenter",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "39",
+        "name": "Bacon",
+        "fodmap": "Lav",
+        "category": "Kjøtt og erstatninger",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "40",
+        "name": "Vanilje",
+        "fodmap": "Lav",
+        "category": "Søtstoffer",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "41",
+        "name": "Sviske",
+        "fodmap": "Høy",
+        "category": "Frukt",
+        "details": {
+            "oligos": 2,
+            "fructose": 0,
+            "polyols": 2,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "43",
+        "name": "Brunt sukker",
+        "fodmap": "Lav",
+        "category": "Søtstoffer",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "44",
+        "name": "Hvitt sukker",
+        "fodmap": "Lav",
+        "category": "Søtstoffer",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "45",
+        "name": "Lønnesirup",
+        "fodmap": "Lav",
+        "category": "Søtstoffer",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "46",
+        "name": "Kjøttdeig",
+        "fodmap": "Lav",
+        "category": "Kjøtt og erstatninger",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "48",
+        "name": "Croissanter",
+        "fodmap": "Høy",
+        "category": "Brød, frokostblandinger, korn og pasta"
+    },
+    {
+        "id": "49",
+        "name": "Crumpets",
+        "fodmap": "Høy",
+        "category": "Brød, frokostblandinger, korn og pasta"
+    },
+    {
+        "id": "51",
+        "name": "Margarin",
+        "fodmap": "Lav",
+        "category": "Meieriprodukter",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "52",
+        "name": "Ketchup (USA)",
+        "fodmap": "Lav",
+        "category": "Kondimenter",
+        "qty": "1 pose",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "53",
+        "name": "Linser, kokt",
+        "fodmap": "Lav",
+        "category": "Grønnsaker og belgfrukter",
+        "qty": "1/4 kopp",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "54",
+        "name": "Sjalottløk",
+        "fodmap": "Høy",
+        "category": "Grønnsaker og belgfrukter",
+        "details": {
+            "oligos": 2,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "55",
+        "name": "Nektarin",
+        "fodmap": "Høy",
+        "category": "Frukt",
+        "details": {
+            "oligos": 2,
+            "fructose": 0,
+            "polyols": 2,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "56",
+        "name": "Mandarin",
+        "fodmap": "Lav",
+        "category": "Frukt",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "57",
+        "name": "Whisky",
+        "fodmap": "Lav",
+        "category": "Drikkevarer",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "58",
+        "name": "Vodka",
+        "fodmap": "Lav",
+        "category": "Drikkevarer",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "59",
+        "name": "Yam",
+        "fodmap": "Lav",
+        "category": "Grønnsaker og belgfrukter",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "60",
+        "name": "Kålrot",
+        "fodmap": "Lav",
+        "category": "Grønnsaker og belgfrukter",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "61",
+        "name": "Reddik",
+        "fodmap": "Lav",
+        "category": "Grønnsaker og belgfrukter",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "62",
+        "name": "Oliven",
+        "fodmap": "Lav",
+        "category": "Grønnsaker og belgfrukter",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "63",
+        "name": "Gressløk",
+        "fodmap": "Lav",
+        "category": "Grønnsaker og belgfrukter",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "64",
+        "name": "Paprika",
+        "fodmap": "Lav",
+        "category": "Grønnsaker og belgfrukter",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "65",
+        "name": "Ruccola",
+        "fodmap": "Lav",
+        "category": "Grønnsaker og belgfrukter",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "66",
+        "name": "Bok choy",
+        "fodmap": "Lav",
+        "category": "Grønnsaker og belgfrukter",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "67",
+        "name": "Taro",
+        "fodmap": "Høy",
+        "category": "Grønnsaker og belgfrukter",
+        "details": {
+            "oligos": 2,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "68",
+        "name": "Soyabønner, kokt",
+        "fodmap": "Høy",
+        "category": "Grønnsaker og belgfrukter",
+        "details": {
+            "oligos": 2,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "69",
+        "name": "Mungbønner, kokt",
+        "fodmap": "Høy",
+        "category": "Grønnsaker og belgfrukter",
+        "details": {
+            "oligos": 2,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "70",
+        "name": "Limabønner, kokt",
+        "fodmap": "Høy",
+        "category": "Grønnsaker og belgfrukter",
+        "details": {
+            "oligos": 2,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "71",
+        "name": "Hvite bønner, kokt",
+        "fodmap": "Høy",
+        "category": "Grønnsaker og belgfrukter",
+        "details": {
+            "oligos": 2,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "72",
+        "name": "Sauerkraut",
+        "fodmap": "Høy",
+        "category": "Grønnsaker og belgfrukter",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 2,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "73",
+        "name": "Falafel",
+        "fodmap": "Høy",
+        "category": "Grønnsaker og belgfrukter",
+        "details": {
+            "oligos": 2,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "74",
+        "name": "Chayote",
+        "fodmap": "Høy",
+        "category": "Grønnsaker og belgfrukter",
+        "details": {
+            "oligos": 2,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "75",
+        "name": "Cho Cho",
+        "fodmap": "Høy",
+        "category": "Grønnsaker og belgfrukter",
+        "details": {
+            "oligos": 2,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "76",
+        "name": "Cassava",
+        "fodmap": "Høy",
+        "category": "Grønnsaker og belgfrukter",
+        "details": {
+            "oligos": 2,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "77",
+        "name": "Smørbønner, hermetisert",
+        "fodmap": "Høy",
+        "category": "Grønnsaker og belgfrukter",
+        "details": {
+            "oligos": 2,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "78",
+        "name": "Hestebønner",
+        "fodmap": "Høy",
+        "category": "Grønnsaker og belgfrukter",
+        "details": {
+            "oligos": 0,
+            "fructose": 2,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "79",
+        "name": "Nyrebønner, kokt",
+        "fodmap": "Høy",
+        "category": "Grønnsaker og belgfrukter",
+        "details": {
+            "oligos": 2,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "80",
+        "name": "Black eyed peas",
+        "fodmap": "Høy",
+        "category": "Grønnsaker og belgfrukter"
+    },
+    {
+        "id": "81",
+        "name": "Svarte bønner, kokt",
+        "fodmap": "Høy",
+        "category": "Grønnsaker og belgfrukter",
+        "details": {
+            "oligos": 2,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "82",
+        "name": "Rødbeter",
+        "fodmap": "Høy",
+        "category": "Grønnsaker og belgfrukter",
+        "details": {
+            "oligos": 2,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "83",
+        "name": "Bakte bønner",
+        "fodmap": "Høy",
+        "category": "Grønnsaker og belgfrukter",
+        "details": {
+            "oligos": 2,
+            "fructose": 2,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "84",
+        "name": "Artisjokk",
+        "fodmap": "Høy",
+        "category": "Grønnsaker og belgfrukter",
+        "details": {
+            "oligos": 2,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "85",
+        "name": "Kefir",
+        "fodmap": "Høy",
+        "category": "Meieriprodukter",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 2
+        }
+    },
+    {
+        "id": "86",
+        "name": "Hvit te",
+        "fodmap": "Lav",
+        "category": "Drikkevarer",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "87",
+        "name": "Grønn te",
+        "fodmap": "Lav",
+        "category": "Drikkevarer",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "88",
+        "name": "Svart te, svak",
+        "fodmap": "Lav",
+        "category": "Drikkevarer",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "89",
+        "name": "Svart te, sterk",
+        "fodmap": "Høy",
+        "category": "Drikkevarer",
+        "details": {
+            "oligos": 1,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "90",
+        "name": "Chai-te, svak",
+        "fodmap": "Lav",
+        "category": "Drikkevarer",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "91",
+        "name": "Oolong-te",
+        "fodmap": "Høy",
+        "category": "Drikkevarer",
+        "details": {
+            "oligos": 2,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "92",
+        "name": "Løvetann-te, sterk",
+        "fodmap": "Høy",
+        "category": "Drikkevarer",
+        "details": {
+            "oligos": 2,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "93",
+        "name": "Chai-te, sterk",
+        "fodmap": "Høy",
+        "category": "Drikkevarer",
+        "details": {
+            "oligos": 2,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "94",
+        "name": "Kamillete",
+        "fodmap": "Høy",
+        "category": "Drikkevarer",
+        "details": {
+            "oligos": 2,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "96",
+        "name": "Rom",
+        "fodmap": "Høy",
+        "category": "Drikkevarer",
+        "details": {
+            "oligos": 0,
+            "fructose": 2,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "97",
+        "name": "Kjøttpålegg",
+        "fodmap": "Lav",
+        "category": "Kjøtt og erstatninger"
+    },
+    {
+        "id": "98",
+        "name": "Kalkun",
+        "fodmap": "Lav",
+        "category": "Kjøtt og erstatninger",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "99",
+        "name": "Prosciutto",
+        "fodmap": "Lav",
+        "category": "Kjøtt og erstatninger",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "100",
+        "name": "Timian",
+        "fodmap": "Lav",
+        "category": "Matlagingredienser, urter og krydder",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "101",
+        "name": "Estragon",
+        "fodmap": "Lav",
+        "category": "Matlagingredienser, urter og krydder",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "102",
+        "name": "Rosmarin",
+        "fodmap": "Lav",
+        "category": "Matlagingredienser, urter og krydder",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "103",
+        "name": "Rampa / pandan-blader",
+        "fodmap": "Lav",
+        "category": "Matlagingredienser, urter og krydder",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "105",
+        "name": "Oregano",
+        "fodmap": "Lav",
+        "category": "Matlagingredienser, urter og krydder",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "106",
+        "name": "Mynte",
+        "fodmap": "Lav",
+        "category": "Matlagingredienser, urter og krydder",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "107",
+        "name": "Sitrongress",
+        "fodmap": "Lav",
+        "category": "Matlagingredienser, urter og krydder",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "108",
+        "name": "Gotu Kola",
+        "fodmap": "Lav",
+        "category": "Matlagingredienser, urter og krydder",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "109",
+        "name": "Bukkehornkløver, tørket",
+        "fodmap": "Lav",
+        "category": "Matlagingredienser, urter og krydder",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "110",
+        "name": "Karriblad",
+        "fodmap": "Lav",
+        "category": "Matlagingredienser, urter og krydder",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "111",
+        "name": "Koriander",
+        "fodmap": "Lav",
+        "category": "Matlagingredienser, urter og krydder",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "112",
+        "name": "Cilantro",
+        "fodmap": "Lav",
+        "category": "Matlagingredienser, urter og krydder",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "113",
+        "name": "Basilikum",
+        "fodmap": "Lav",
+        "category": "Matlagingredienser, urter og krydder",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "114",
+        "name": "Persille",
+        "fodmap": "Lav",
+        "category": "Matlagingredienser, urter og krydder",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "115",
+        "name": "Kanel",
+        "fodmap": "Lav",
+        "category": "Matlagingredienser, urter og krydder",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "116",
+        "name": "Acesulfame K",
+        "fodmap": "Lav",
+        "category": "Søtstoffer",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "117",
+        "name": "Agave",
+        "fodmap": "Høy",
+        "category": "Søtstoffer",
+        "details": {
+            "oligos": 2,
+            "fructose": 2,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "118",
+        "name": "Mandel-melk",
+        "fodmap": "Lav",
+        "category": "Melk",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "119",
+        "name": "Mandler",
+        "fodmap": "Lav",
+        "category": "Nøtter og frø",
+        "qty": "10",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "120",
+        "name": "Eplejuice",
+        "fodmap": "Høy",
+        "category": "Drikkevarer",
+        "details": {
+            "oligos": 0,
+            "fructose": 2,
+            "polyols": 2,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "121",
+        "name": "Epler",
+        "fodmap": "Høy",
+        "category": "Frukt",
+        "details": {
+            "oligos": 0,
+            "fructose": 2,
+            "polyols": 2,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "122",
+        "name": "Aprikos",
+        "fodmap": "Høy",
+        "category": "Frukt",
+        "details": {
+            "oligos": 1,
+            "fructose": 0,
+            "polyols": 2,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "123",
+        "name": "Asparges",
+        "fodmap": "Høy",
+        "category": "Grønnsaker og belgfrukter",
+        "details": {
+            "oligos": 0,
+            "fructose": 2,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "124",
+        "name": "Aspartam",
+        "fodmap": "Lav",
+        "category": "Søtstoffer",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "125",
+        "name": "Avokado",
+        "fodmap": "Høy",
+        "category": "Frukt",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 2,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "126",
+        "name": "Bambusskudd",
+        "fodmap": "Lav",
+        "category": "Grønnsaker og belgfrukter",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "127",
+        "name": "Bananer, moden",
+        "fodmap": "Høy",
+        "category": "Frukt",
+        "details": {
+            "oligos": 2,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "128",
+        "name": "Grillsaus",
+        "fodmap": "Lav",
+        "category": "Kondimenter",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "129",
+        "name": "Bygg, perle",
+        "fodmap": "Høy",
+        "category": "Brød, frokostblandinger, korn og pasta",
+        "details": {
+            "oligos": 2,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "130",
+        "name": "Bønnespirer",
+        "fodmap": "Lav",
+        "category": "Grønnsaker og belgfrukter",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "131",
+        "name": "Storfekjøtt",
+        "fodmap": "Lav",
+        "category": "Kjøtt og erstatninger",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "132",
+        "name": "Egg",
+        "fodmap": "Lav",
+        "category": "Dairy",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "133",
+        "name": "Øl",
+        "fodmap": "Lav",
+        "category": "Drikkevarer",
+        "qty": "1",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "134",
+        "name": "Bjørnebær",
+        "fodmap": "Høy",
+        "category": "Frukt",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 2,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "135",
+        "name": "Blåbær",
+        "fodmap": "Lav",
+        "category": "Frukt",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "136",
+        "name": "Hvetekli, pellets",
+        "fodmap": "Høy",
+        "category": "Brød, frokostblandinger, korn og pasta",
+        "details": {
+            "oligos": 2,
+            "fructose": 1,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "137",
+        "name": "Brasilnøtter",
+        "fodmap": "Lav",
+        "category": "Nøtter og frø",
+        "qty": "10",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "138",
+        "name": "Brie",
+        "fodmap": "Lav",
+        "category": "Ost",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "139",
+        "name": "Brokkoli",
+        "fodmap": "Lav",
+        "category": "Grønnsaker og belgfrukter",
+        "qty": "1/2 kopp",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "140",
+        "name": "Bokhvete, mel",
+        "fodmap": "Lav",
+        "category": "Brød, frokostblandinger, korn og pasta",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "141",
+        "name": "Smør",
+        "fodmap": "Lav",
+        "category": "Meieriprodukter",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "142",
+        "name": "Kjernemelk",
+        "fodmap": "Høy",
+        "category": "Meieriprodukter",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 2
+        }
+    },
+    {
+        "id": "143",
+        "name": "Kål, vanlig",
+        "fodmap": "Lav",
+        "category": "Grønnsaker og belgfrukter",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "144",
+        "name": "Savoykål",
+        "fodmap": "Høy",
+        "category": "Grønnsaker og belgfrukter",
+        "details": {
+            "oligos": 2,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "145",
+        "name": "Camembert",
+        "fodmap": "Lav",
+        "category": "Ost",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "146",
+        "name": "Cantaloupe",
+        "fodmap": "Lav",
+        "category": "Frukt",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "147",
+        "name": "Gulrøtter",
+        "fodmap": "Lav",
+        "category": "Grønnsaker og belgfrukter",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "148",
+        "name": "Cashewnøtter",
+        "fodmap": "Høy",
+        "category": "Nøtter og frø",
+        "details": {
+            "oligos": 2,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "149",
+        "name": "Blomkål",
+        "fodmap": "Høy",
+        "category": "Grønnsaker og belgfrukter",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 2,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "150",
+        "name": "Selleri",
+        "fodmap": "Lav",
+        "category": "Grønnsaker og belgfrukter",
+        "qty": "5cm",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "151",
+        "name": "Cheddarost",
+        "fodmap": "Lav",
+        "category": "Ost",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "152",
+        "name": "Kastanjer",
+        "fodmap": "Lav",
+        "category": "Nøtter og frø",
+        "qty": "10",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "153",
+        "name": "Chiafrø",
+        "fodmap": "Lav",
+        "category": "Nøtter og frø",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "154",
+        "name": "Kikerter, hermetisert",
+        "fodmap": "Lav",
+        "category": "Grønnsaker og belgfrukter",
+        "qty": "1/4 kopp",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "155",
+        "name": "Kylling",
+        "fodmap": "Lav",
+        "category": "Kjøtt og erstatninger",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "156",
+        "name": "Chips, potetgull (vanlig)",
+        "fodmap": "Lav",
+        "category": "Brød, frokostblandinger, korn og pasta",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "157",
+        "name": "Chorizo",
+        "fodmap": "Høy",
+        "category": "Kjøtt og erstatninger"
+    },
+    {
+        "id": "158",
+        "name": "Chutney",
+        "fodmap": "Lav",
+        "category": "Kondimenter",
+        "qty": "1 ss",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "159",
+        "name": "Klementin",
+        "fodmap": "Lav",
+        "category": "Frukt",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "160",
+        "name": "Kokosnøtt (fersk eller tørket)",
+        "fodmap": "Lav",
+        "category": "Frukt",
+        "qty": "1/2 kopp",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "161",
+        "name": "Kokosmelk, hermetisk",
+        "fodmap": "Lav",
+        "category": "Melk",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "162",
+        "name": "Kokosnøttvann",
+        "fodmap": "Høy",
+        "category": "Drikkevarer",
+        "details": {
+            "oligos": 1,
+            "fructose": 0,
+            "polyols": 2,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "163",
+        "name": "Kaffe, svart",
+        "fodmap": "Lav",
+        "category": "Drikkevarer"
+    },
+    {
+        "id": "164",
+        "name": "Colby-ost",
+        "fodmap": "Lav",
+        "category": "Ost",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "165",
+        "name": "Mais / Søtmais",
+        "fodmap": "Lav",
+        "category": "Grønnsaker og belgfrukter",
+        "qty": "1/2 cob",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "166",
+        "name": "Potetmel",
+        "fodmap": "Lav",
+        "category": "Brød, frokostblandinger, korn og pasta",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "167",
+        "name": "Cottage cheese",
+        "fodmap": "Lav",
+        "category": "Ost",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "169",
+        "name": "Couscous, hvete",
+        "fodmap": "Høy",
+        "category": "Brød, frokostblandinger, korn og pasta",
+        "details": {
+            "oligos": 2,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "170",
+        "name": "Kumelk",
+        "fodmap": "Høy",
+        "category": "Melk",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 2
+        }
+    },
+    {
+        "id": "171",
+        "name": "Tranebær",
+        "fodmap": "Lav",
+        "category": "Frukt",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "172",
+        "name": "Krem, vanlig fett",
+        "fodmap": "Høy",
+        "category": "Dairy",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 1
+        }
+    },
+    {
+        "id": "173",
+        "name": "Kremost",
+        "fodmap": "Høy",
+        "category": "Ost",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 1
+        }
+    },
+    {
+        "id": "174",
+        "name": "Agurk",
+        "fodmap": "Lav",
+        "category": "Grønnsaker og belgfrukter",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "175",
+        "name": "Vaniljesaus",
+        "fodmap": "Høy",
+        "category": "Meieriprodukter",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 2
+        }
+    },
+    {
+        "id": "176",
+        "name": "Mørk sjokolade",
+        "fodmap": "Lav",
+        "category": "Søtstoffer",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "177",
+        "name": "Pitahaya / Dragefrukt",
+        "fodmap": "Lav",
+        "category": "Frukt",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "178",
+        "name": "Sjokolademelk, pulver (enhver % kakao)",
+        "fodmap": "Lav",
+        "category": "Drikkevarer",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "179",
+        "name": "Durian",
+        "fodmap": "Lav",
+        "category": "Frukt",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "180",
+        "name": "Aubergine",
+        "fodmap": "Lav",
+        "category": "Grønnsaker og belgfrukter",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "181",
+        "name": "Fennikelte",
+        "fodmap": "Høy",
+        "category": "Drikkevarer",
+        "details": {
+            "oligos": 2,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "182",
+        "name": "Fetaost",
+        "fodmap": "Lav",
+        "category": "Ost",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "183",
+        "name": "Hvitløk",
+        "fodmap": "Høy",
+        "category": "Grønnsaker og belgfrukter",
+        "details": {
+            "oligos": 2,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "184",
+        "name": "Hvitløksolje",
+        "fodmap": "Lav",
+        "category": "Kondimenter",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "185",
+        "name": "Glukose",
+        "fodmap": "Lav",
+        "category": "Søtstoffer"
+    },
+    {
+        "id": "186",
+        "name": "Glutenfrie hveteprodukter (f.eks. Brød, frokostblandinger, pasta) laget uten ingredienser med høyt fodmap som honning eller hvitløk",
+        "fodmap": "Lav",
+        "category": "Brød, frokostblandinger, korn og pasta",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "187",
+        "name": "Gnocchi, hvete",
+        "fodmap": "Høy",
+        "category": "Brød, frokostblandinger, korn og pasta",
+        "details": {
+            "oligos": 2,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "188",
+        "name": "Geitost",
+        "fodmap": "Lav",
+        "category": "Ost",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "189",
+        "name": "Geitemelk",
+        "fodmap": "Høy",
+        "category": "Melk",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 2
+        }
+    },
+    {
+        "id": "190",
+        "name": "Lys sirup",
+        "fodmap": "Lav",
+        "category": "Kondimenter",
+        "qty": "1/2 ss"
+    },
+    {
+        "id": "191",
+        "name": "Granola",
+        "fodmap": "Høy",
+        "category": "Brød, frokostblandinger, korn og pasta"
+    },
+    {
+        "id": "192",
+        "name": "Grapefrukt",
+        "fodmap": "Høy",
+        "category": "Frukt",
+        "details": {
+            "oligos": 2,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "193",
+        "name": "Druer (røde, grønne og svarte)",
+        "fodmap": "Lav",
+        "category": "Frukt",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "194",
+        "name": "Gresk yogurt",
+        "fodmap": "Lav",
+        "category": "Meieriprodukter",
+        "qty": "Små mengder"
+    },
+    {
+        "id": "195",
+        "name": "Geiteyoghurt",
+        "fodmap": "Lav",
+        "category": "Meieriprodukter",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "196",
+        "name": "Laktosefri yoghurt",
+        "fodmap": "Lav",
+        "category": "Meieriprodukter",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "197",
+        "name": "Yoghurt",
+        "fodmap": "Høy",
+        "category": "Meieriprofukter",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 2
+        }
+    },
+    {
+        "id": "198",
+        "name": "Grønne bønner",
+        "fodmap": "Lav",
+        "category": "Grønnsaker og belgfrukter",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "199",
+        "name": "Grønn paprika",
+        "fodmap": "Lav",
+        "category": "Grønnsaker og belgfrukter",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "200",
+        "name": "Havarti",
+        "fodmap": "Lav",
+        "category": "Ost",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "201",
+        "name": "Hasselnøtter",
+        "fodmap": "Lav",
+        "category": "Nøtter og frø",
+        "qty": "10",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "202",
+        "name": "Hampemelk",
+        "fodmap": "Lav",
+        "category": "Melk",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "203",
+        "name": "Havre",
+        "fodmap": "Lav",
+        "category": "Brød, frokostblandinger, korn og pasta",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "204",
+        "name": "Urtete (sterk)",
+        "fodmap": "Høy",
+        "category": "Drikkevarer",
+        "details": {
+            "oligos": 2,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "205",
+        "name": "Urtete (svak)",
+        "fodmap": "Lav",
+        "category": "Drikkevarer",
+        "details": {
+            "oligos": 1,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "206",
+        "name": "Høyfruktosekornsirup (HFCS)",
+        "fodmap": "Høy",
+        "category": "Søtstoffer",
+        "details": {
+            "oligos": 2,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "207",
+        "name": "Hummusdip",
+        "fodmap": "Høy",
+        "category": "Kondimenter",
+        "details": {
+            "oligos": 2,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "208",
+        "name": "Honning",
+        "fodmap": "Høy",
+        "category": "Søtstoffer",
+        "details": {
+            "oligos": 0,
+            "fructose": 2,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "209",
+        "name": "Iskrem",
+        "fodmap": "Høy",
+        "category": "Meieriprodukter",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 1
+        }
+    },
+    {
+        "id": "210",
+        "name": "Inulin",
+        "fodmap": "Høy",
+        "category": "Søtstoffer",
+        "details": {
+            "oligos": 2,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "211",
+        "name": "Isomalt",
+        "fodmap": "Høy",
+        "category": "Søtstoffer"
+    },
+    {
+        "id": "212",
+        "name": "Syltetøy (blandede bær)",
+        "fodmap": "Høy",
+        "category": "Kondimenter",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 2,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "213",
+        "name": "Kål",
+        "fodmap": "Lav",
+        "category": "Grønnsaker og belgfrukter",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "214",
+        "name": "Kiwi",
+        "fodmap": "Lav",
+        "category": "Frukt",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "215",
+        "name": "Kumquat",
+        "fodmap": "Lav",
+        "category": "Frukt",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "216",
+        "name": "Laktosefri melk",
+        "fodmap": "Lav",
+        "category": "Melk",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "217",
+        "name": "Lam",
+        "fodmap": "Lav",
+        "category": "Kjøtt og erstatninger",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "218",
+        "name": "Sitron",
+        "fodmap": "Lav",
+        "category": "Frukt",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "219",
+        "name": "Salat (f.eks. Rucolla, isberg, romano)",
+        "fodmap": "Lav",
+        "category": "Grønnsaker og belgfrukter",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "220",
+        "name": "Macadamianøtter",
+        "fodmap": "Lav",
+        "category": "Nøtter og frø",
+        "qty": "20",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "221",
+        "name": "Maltitol",
+        "fodmap": "Høy",
+        "category": "Søtstoffer",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "223",
+        "name": "Mango",
+        "fodmap": "Høy",
+        "category": "Frukt",
+        "details": {
+            "oligos": 0,
+            "fructose": 2,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "224",
+        "name": "Mangojuice",
+        "fodmap": "Høy",
+        "category": "Drikkevarer",
+        "details": {
+            "oligos": 0,
+            "fructose": 2,
+            "polyols": 2,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "225",
+        "name": "Mannitol",
+        "fodmap": "Høy",
+        "category": "Søtstoffer",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "226",
+        "name": "Majones",
+        "fodmap": "Lav",
+        "category": "Kondimenter",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "227",
+        "name": "Meloner f.eks. Honning, galia",
+        "fodmap": "Lav",
+        "category": "Frukt",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "228",
+        "name": "Melkesjokolade",
+        "fodmap": "Lav",
+        "category": "Meieriprodukter",
+        "qty": "3 ruter",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "229",
+        "name": "Mozzarella",
+        "fodmap": "Lav",
+        "category": "Ost",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "230",
+        "name": "Müsli",
+        "fodmap": "Høy",
+        "category": "Brød, frokostblandinger, korn og pasta",
+        "details": {
+            "oligos": 2,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "231",
+        "name": "Muffins",
+        "fodmap": "Høy",
+        "category": "Brød, frokostblandinger, korn og pasta"
+    },
+    {
+        "id": "232",
+        "name": "Sopp",
+        "fodmap": "Høy",
+        "category": "Grønnsaker og belgfrukter",
+        "details": {
+            "oligos": 1,
+            "fructose": 0,
+            "polyols": 2,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "233",
+        "name": "Sennep",
+        "fodmap": "Lav",
+        "category": "Kondimenter",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "234",
+        "name": "Havremelk",
+        "fodmap": "Lav",
+        "category": "Melk",
+        "qty": "30ml",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "235",
+        "name": "Havregrøt",
+        "fodmap": "Lav",
+        "category": "Brød, frokostblandinger, korn og pasta",
+        "qty": "1/2 kopp",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "236",
+        "name": "Løk",
+        "fodmap": "Høy",
+        "category": "Grønnsaker og belgfrukter",
+        "details": {
+            "oligos": 2,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "237",
+        "name": "Appelsin",
+        "fodmap": "Lav",
+        "category": "Frukt",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "238",
+        "name": "Appelsinjuice",
+        "fodmap": "Høy",
+        "category": "Drikkevarer",
+        "qty": "125ml",
+        "details": {
+            "oligos": 0,
+            "fructose": 2,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "239",
+        "name": "Papaya",
+        "fodmap": "Lav",
+        "category": "Frukt",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "240",
+        "name": "Parmesan",
+        "fodmap": "Lav",
+        "category": "Ost",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "241",
+        "name": "Pastinakk",
+        "fodmap": "Lav",
+        "category": "Grønnsaker og belgfrukter",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "242",
+        "name": "Pasjonsfrukt",
+        "fodmap": "Lav",
+        "category": "Frukt",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "243",
+        "name": "Pastasaus (krembasert)",
+        "fodmap": "Høy",
+        "category": "Kondimenter",
+        "details": {
+            "oligos": 2,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 1
+        }
+    },
+    {
+        "id": "244",
+        "name": "Ferskener",
+        "fodmap": "Høy",
+        "category": "Frukt",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 2,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "245",
+        "name": "Peanøtter",
+        "fodmap": "Lav",
+        "category": "Nøtter og frø",
+        "qty": "32",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "246",
+        "name": "Pærejuice",
+        "fodmap": "Høy",
+        "category": "Drikkevarer",
+        "details": {
+            "oligos": 0,
+            "fructose": 2,
+            "polyols": 2,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "247",
+        "name": "Pærer",
+        "fodmap": "Høy",
+        "category": "Frukt",
+        "details": {
+            "oligos": 0,
+            "fructose": 2,
+            "polyols": 2,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "248",
+        "name": "Erter",
+        "fodmap": "Høy",
+        "category": "Grønnsaker og belgfrukter",
+        "details": {
+            "oligos": 2,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "249",
+        "name": "Pekannøtter",
+        "fodmap": "Lav",
+        "category": "Nøtter og frø",
+        "qty": "10",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "250",
+        "name": "Pecorino",
+        "fodmap": "Lav",
+        "category": "Ost",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "251",
+        "name": "Peppermynte-te",
+        "fodmap": "Lav",
+        "category": "Drikkevarer",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "252",
+        "name": "Ananas",
+        "fodmap": "Lav",
+        "category": "Frukt",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "253",
+        "name": "Pistasj",
+        "fodmap": "Høy",
+        "category": "Nøtter og frø",
+        "details": {
+            "oligos": 2,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "254",
+        "name": "Plommer",
+        "fodmap": "Høy",
+        "category": "Frukt",
+        "details": {
+            "oligos": 2,
+            "fructose": 0,
+            "polyols": 2,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "255",
+        "name": "Popcorn",
+        "fodmap": "Lav",
+        "category": "Brød, frokostblandinger, korn og pasta",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "256",
+        "name": "Valmuefrø",
+        "fodmap": "Lav",
+        "category": "Nøtter og frø",
+        "qty": "2 ss",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "257",
+        "name": "Svinekjøtt",
+        "fodmap": "Lav",
+        "category": "Kjøtt og erstatninger",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "258",
+        "name": "Potet",
+        "fodmap": "Lav",
+        "category": "Grønnsaker og belgfrukter",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "259",
+        "name": "Pretzels",
+        "fodmap": "Lav",
+        "category": "Brød, frokostblandinger, korn og pasta",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "260",
+        "name": "Gresskar",
+        "fodmap": "Lav",
+        "category": "Grønnsaker og belgfrukter",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "261",
+        "name": "Gresskarfrø",
+        "fodmap": "Lav",
+        "category": "Nøtter og frø",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "262",
+        "name": "Quinoa",
+        "fodmap": "Lav",
+        "category": "Brød, frokostblandinger, korn og pasta",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "263",
+        "name": "Quorn, finhakket",
+        "fodmap": "Lav",
+        "category": "Kjøtt og erstatninger",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "264",
+        "name": "Rosiner",
+        "fodmap": "Høy",
+        "category": "Frukt",
+        "details": {
+            "oligos": 2,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "265",
+        "name": "Bringebær",
+        "fodmap": "Lav",
+        "category": "Frukt",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "266",
+        "name": "Røde paprikaer",
+        "fodmap": "Lav",
+        "category": "Grønnsaker og belgfrukter",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "267",
+        "name": "Relish",
+        "fodmap": "Høy",
+        "category": "Kondimenter",
+        "details": {
+            "oligos": 2,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "268",
+        "name": "Rabarbra",
+        "fodmap": "Lav",
+        "category": "Frukt",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "269",
+        "name": "Brun ris",
+        "fodmap": "Lav",
+        "category": "Brød, frokostblandinger, korn og pasta",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "270",
+        "name": "Hvit ris",
+        "fodmap": "Lav",
+        "category": "Brød, frokostblandinger, korn og pasta",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "271",
+        "name": "Basmatiris",
+        "fodmap": "Lav",
+        "category": "Brød, frokostblandinger, korn og pasta",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "272",
+        "name": "Rismelk",
+        "fodmap": "Lav",
+        "category": "Melk",
+        "qty": "200ml",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "273",
+        "name": "Ricotta",
+        "fodmap": "Høy",
+        "category": "Ost",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 1
+        }
+    },
+    {
+        "id": "274",
+        "name": "Rug",
+        "fodmap": "Høy",
+        "category": "Brød, frokostblandinger, korn og pasta",
+        "details": {
+            "oligos": 2,
+            "fructose": 2,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "275",
+        "name": "Sakkarin",
+        "fodmap": "Lav",
+        "category": "Søtstoffer",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "276",
+        "name": "Pølser",
+        "fodmap": "Høy",
+        "category": "Kjøtt og erstatninger",
+        "details": {
+            "oligos": 2,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "277",
+        "name": "Salte kjeks",
+        "fodmap": "Lav",
+        "category": "Brød, frokostblandinger, korn og pasta",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "278",
+        "name": "Vårløk / Grønn løk (grønn del)",
+        "fodmap": "Lav",
+        "category": "Grønnsaker og belgfrukter",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "279",
+        "name": "Vårløk / Grønn løk (hvit del)",
+        "fodmap": "Høy",
+        "category": "Grønnsaker og belgfrukter",
+        "details": {
+            "oligos": 2,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "280",
+        "name": "Semulegryn",
+        "fodmap": "Høy",
+        "category": "Brød, frokostblandinger, korn og pasta"
+    },
+    {
+        "id": "281",
+        "name": "Sesamfrø",
+        "fodmap": "Lav",
+        "category": "Nøtter og frø",
+        "qty": "2 ss",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "282",
+        "name": "Sauemelk",
+        "fodmap": "Høy",
+        "category": "Melk",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "283",
+        "name": "Brus med HFCS",
+        "fodmap": "Høy",
+        "category": "Drikkevarer"
+    },
+    {
+        "id": "284",
+        "name": "Sorbitol",
+        "fodmap": "Høy",
+        "category": "Søtstoffer"
+    },
+    {
+        "id": "285",
+        "name": "Rømme",
+        "fodmap": "Høy",
+        "category": "Meieriprodukter",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 2
+        }
+    },
+    {
+        "id": "286",
+        "name": "Soyamelk laget med soyabønner",
+        "fodmap": "Høy",
+        "category": "Melk",
+        "details": {
+            "oligos": 2,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "287",
+        "name": "Soyasaus",
+        "fodmap": "Lav",
+        "category": "Kondimenter",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "288",
+        "name": "Soyamelk laget med soyaprotein",
+        "fodmap": "Lav",
+        "category": "Melk",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "289",
+        "name": "Speltflak",
+        "fodmap": "Høy",
+        "category": "Brød, frokostblandinger, korn og pasta",
+        "details": {
+            "oligos": 2,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "290",
+        "name": "Speltbrød (ikke surdeig)",
+        "fodmap": "Høy",
+        "category": "Brød, frokostblandinger, korn og pasta",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "291",
+        "name": "Speltbrød (surdeig)",
+        "fodmap": "Lav",
+        "category": "Brød, frokostblandinger, korn og pasta",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "292",
+        "name": "Speltpasta",
+        "fodmap": "Lav",
+        "category": "Brød, frokostblandinger, korn og pasta",
+        "qty": "1/2 kopp",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "293",
+        "name": "Flaskegresskar",
+        "fodmap": "Lav",
+        "category": "Grønnsaker og belgfrukter",
+        "qty": "1/4 kopp",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "294",
+        "name": "Stjernefrukt",
+        "fodmap": "Lav",
+        "category": "Frukt",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "295",
+        "name": "Stevia",
+        "fodmap": "Lav",
+        "category": "Søtstoffer",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "296",
+        "name": "Jordbær",
+        "fodmap": "Lav",
+        "category": "Frukt",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "297",
+        "name": "Jordbærsyltetøy / gelé (uten HFCS)",
+        "fodmap": "Lav",
+        "category": "Kondimenter",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "298",
+        "name": "Sukralose",
+        "fodmap": "Lav",
+        "category": "Søtstoffer",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "299",
+        "name": "Sukker / sukrose",
+        "fodmap": "Lav",
+        "category": "Søtstoffer",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "300",
+        "name": "Sultanas",
+        "fodmap": "Høy",
+        "category": "Frukt",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "301",
+        "name": "Solsikkefrø",
+        "fodmap": "Lav",
+        "category": "Nøtter og frø",
+        "qty": "2 teskjeer",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "302",
+        "name": "Søtpotet",
+        "fodmap": "Lav",
+        "category": "Grønnsaker og belgfrukter",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "303",
+        "name": "Sveitserost",
+        "fodmap": "Lav",
+        "category": "Ost",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "304",
+        "name": "Tamarind",
+        "fodmap": "Lav",
+        "category": "Frukt",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "305",
+        "name": "Minneola",
+        "fodmap": "Lav",
+        "category": "Frukt",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "306",
+        "name": "Tomatsaus",
+        "fodmap": "Lav",
+        "category": "Kondimenter",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "307",
+        "name": "Tomater",
+        "fodmap": "Lav",
+        "category": "Grønnsaker og belgfrukter",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "308",
+        "name": "Tortillachips",
+        "fodmap": "Lav",
+        "category": "Brød, frokostblandinger, korn og pasta",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "309",
+        "name": "Neper",
+        "fodmap": "Lav",
+        "category": "Grønnsaker og belgfrukter",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "310",
+        "name": "Tzatziki",
+        "fodmap": "Høy",
+        "category": "Kondimenter",
+        "details": {
+            "oligos": 2,
+            "fructose": 2,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "311",
+        "name": "Valnøtter",
+        "fodmap": "Lav",
+        "category": "Nøtter og frø",
+        "qty": "10",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "312",
+        "name": "Vann",
+        "fodmap": "Lav",
+        "category": "Drikkevarer",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "313",
+        "name": "Vannmelon",
+        "fodmap": "Høy",
+        "category": "Frukt",
+        "details": {
+            "oligos": 2,
+            "fructose": 2,
+            "polyols": 2,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "314",
+        "name": "Hvetemat f.eks. Brød, frokostblanding, pasta",
+        "fodmap": "Høy",
+        "category": "Brød, frokostblandinger, korn og pasta",
+        "details": {
+            "oligos": 2,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "315",
+        "name": "Hvit sjokolade",
+        "fodmap": "Lav",
+        "category": "Meieriprodukter",
+        "qty": "3 ruter",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "316",
+        "name": "Vin",
+        "fodmap": "Lav",
+        "category": "Drikkevarer",
+        "qty": "1",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "317",
+        "name": "Xylitol",
+        "fodmap": "Høy",
+        "category": "Søtstoffer"
+    },
+    {
+        "id": "318",
+        "name": "Zucchini",
+        "fodmap": "Lav",
+        "category": "Grønnsaker og belgfrukter",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "319",
+        "name": "Tahini",
+        "fodmap": "Høy",
+        "category": "Kondimenter",
+        "details": {
+            "oligos": 2,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "320",
+        "name": "Spinat",
+        "fodmap": "Lav",
+        "category": "Grønnsaker og belgfrukter",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "321",
+        "name": "Reke",
+        "fodmap": "Lav",
+        "category": "Kjøtt og erstatninger",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "322",
+        "name": "Reker (Prawns)",
+        "fodmap": "Lav",
+        "category": "Kjøtt og erstatninger",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "323",
+        "name": "Østers",
+        "fodmap": "Lav",
+        "category": "Kjøtt og erstatninger",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "324",
+        "name": "Blåskjell",
+        "fodmap": "Lav",
+        "category": "Kjøtt og erstatninger",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "325",
+        "name": "Hummer",
+        "fodmap": "Lav",
+        "category": "Kjøtt og erstatninger",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "326",
+        "name": "Krabbe",
+        "fodmap": "Lav",
+        "category": "Kjøtt og erstatninger",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "327",
+        "name": "Tunfisk",
+        "fodmap": "Lav",
+        "category": "Kjøtt og erstatninger",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "328",
+        "name": "Ørret",
+        "fodmap": "Lav",
+        "category": "Kjøtt og erstatninger",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "329",
+        "name": "Laks",
+        "fodmap": "Lav",
+        "category": "Kjøtt og erstatninger",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "330",
+        "name": "Torsk",
+        "fodmap": "Lav",
+        "category": "Kjøtt og erstatninger",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "331",
+        "name": "Hyse",
+        "fodmap": "Lav",
+        "category": "Kjøtt og erstatninger",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "332",
+        "name": "Olivenolje",
+        "fodmap": "Lav",
+        "category": "Matlagingredienser, urter og krydder",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "333",
+        "name": "Goji-bær",
+        "fodmap": "Høy",
+        "category": "Frukt",
+        "details": {
+            "oligos": 2,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "334",
+        "name": "Riskjeks",
+        "fodmap": "Lav",
+        "category": "Brød, frokostblandinger, korn og pasta",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "335",
+        "name": "Riskaker",
+        "fodmap": "Lav",
+        "category": "Brød, frokostblandinger, korn og pasta",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "336",
+        "name": "Edamame",
+        "fodmap": "Lav",
+        "category": "Grønnsaker og belgfrukter",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "337",
+        "name": "Eikenøttsquash",
+        "fodmap": "Lav",
+        "category": "Grønnsaker og belgfrukter",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "338",
+        "name": "Balsamicoeddik",
+        "fodmap": "Lav",
+        "category": "Kondimenter",
+        "qty": "2 ss",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "339",
+        "name": "Eplecidereddik",
+        "fodmap": "Lav",
+        "category": "Kondimenter",
+        "qty": "2 ss",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "340",
+        "name": "Delte erter",
+        "fodmap": "Høy",
+        "category": "Grønnsaker og belgfrukter",
+        "details": {
+            "oligos": 2,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "341",
+        "name": "Blåmuggost",
+        "fodmap": "Lav",
+        "category": "Ost",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "342",
+        "name": "Tapioca",
+        "fodmap": "Lav",
+        "category": "Brød, frokostblandinger, korn og pasta",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "343",
+        "name": "Sesamolje",
+        "fodmap": "Lav",
+        "category": "Matlagingredienser, urter og krydder",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "344",
+        "name": "Spagettigresskar",
+        "fodmap": "Lav",
+        "category": "Grønnsaker og belgfrukter",
+        "qty": "2,5 kopper",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "345",
+        "name": "Okra",
+        "fodmap": "Lav",
+        "category": "Grønnsaker og belgfrukter",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "346",
+        "name": "Kapers",
+        "fodmap": "Lav",
+        "category": "Kondimenter",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "347",
+        "name": "Gin",
+        "fodmap": "Lav",
+        "category": "Drikkevarer",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "348",
+        "name": "Jasminris",
+        "fodmap": "Lav",
+        "category": "Brød, frokostblandinger, korn og pasta",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "349",
+        "name": "Kombucha",
+        "fodmap": "Høy",
+        "category": "Drikkevarer",
+        "details": {
+            "oligos": 2,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "350",
+        "name": "Melasse",
+        "fodmap": "Høy",
+        "category": "Kondimenter"
+    },
+    {
+        "id": "351",
+        "name": "Durra",
+        "fodmap": "Lav",
+        "category": "Brød, frokostblandinger, korn og pasta",
+        "qty": "2/3 kopper",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "352",
+        "name": "Mandelmel",
+        "fodmap": "Lav",
+        "category": "Brød, frokostblandinger, korn og pasta",
+        "qty": "1/4 kopp",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "353",
+        "name": "Kokosmel",
+        "fodmap": "Høy",
+        "category": "Brød, frokostblandinger, korn og pasta",
+        "details": {
+            "oligos": 2,
+            "fructose": 2,
+            "polyols": 2,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "354",
+        "name": "Spisskummen",
+        "fodmap": "Lav",
+        "category": "Matlagingredienser, urter og krydder",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "355",
+        "name": "Endive",
+        "fodmap": "Lav",
+        "category": "Grønnsaker og belgfrukter",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "356",
+        "name": "Hvitløkspulver",
+        "fodmap": "Høy",
+        "category": "Matlagingredienser, urter og krydder",
+        "details": {
+            "oligos": 2,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "357",
+        "name": "Hvitløkssalt",
+        "fodmap": "Høy",
+        "category": "Matlagingredienser, urter og krydder",
+        "details": {
+            "oligos": 2,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "358",
+        "name": "Hirmsmel",
+        "fodmap": "Lav",
+        "category": "Brød, frokostblandinger, korn og pasta",
+        "qty": "2/3 kopp",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "359",
+        "name": "Halloumi / Hellim",
+        "fodmap": "Lav",
+        "category": "Ost",
+        "qty": "50g",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "360",
+        "name": "Risnudler",
+        "fodmap": "Lav",
+        "category": "Brød, frokostblandinger, korn og pasta",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "361",
+        "name": "Brønnkarse",
+        "fodmap": "Lav",
+        "category": "Grønnsaker og belgfrukter",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "362",
+        "name": "Sellerirot",
+        "fodmap": "Lav",
+        "category": "Grønnsaker og belgfrukter",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "363",
+        "name": "Salt",
+        "fodmap": "Lav",
+        "category": "Matlagingredienser, urter og krydder",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "364",
+        "name": "Pepper, svart",
+        "fodmap": "Lav",
+        "category": "Matlagingredienser, urter og krydder",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "365",
+        "name": "Jicama",
+        "fodmap": "Lav",
+        "category": "Grønnsaker og belgfrukter",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "366",
+        "name": "Paprikapulver",
+        "fodmap": "Lav",
+        "category": "Matlagingredienser, urter og krydder",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "367",
+        "name": "Asiago",
+        "fodmap": "Lav",
+        "category": "Ost",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "368",
+        "name": "Miso",
+        "fodmap": "Lav",
+        "category": "Matlagingredienser, urter og krydder",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "369",
+        "name": "Tomatpuré",
+        "fodmap": "Lav",
+        "category": "Matlagingredienser, urter og krydder",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "370",
+        "name": "Babyspinat",
+        "fodmap": "Lav",
+        "category": "Grønnsaker og belgfrukter",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "371",
+        "name": "Aprikoser, tørket",
+        "fodmap": "Høy",
+        "category": "Frukt",
+        "details": {
+            "oligos": 1,
+            "fructose": 0,
+            "polyols": 2,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "372",
+        "name": "Guava, moden",
+        "fodmap": "Lav",
+        "category": "Frukt",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "373",
+        "name": "Guava, umoden",
+        "fodmap": "Høy",
+        "category": "Frukt",
+        "details": {
+            "oligos": 0,
+            "fructose": 2,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "374",
+        "name": "Banan, tørket",
+        "fodmap": "Lav",
+        "category": "Frukt",
+        "qty": "20",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "375",
+        "name": "Kassavarot",
+        "fodmap": "Høy",
+        "category": "Grønnsaker og belgfrukter",
+        "details": {
+            "oligos": 2,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "376",
+        "name": "Feijoa",
+        "fodmap": "Høy",
+        "category": "Frukt",
+        "details": {
+            "oligos": 0,
+            "fructose": 2,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "377",
+        "name": "Maischips (vanlig)",
+        "fodmap": "Lav",
+        "category": "Brød, frokostblandinger, korn og pasta",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "378",
+        "name": "Næringsrik gjær",
+        "fodmap": "Lav",
+        "category": "Matlagingredienser, urter og krydder",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "379",
+        "name": "Tempeh",
+        "fodmap": "Lav",
+        "category": "Grønnsaker og belgfrukter",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "380",
+        "name": "Sukkererter",
+        "fodmap": "Lav",
+        "category": "Grønnsaker og belgfrukter",
+        "qty": "5 belter",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "381",
+        "name": "Paprikaslekten",
+        "fodmap": "Lav",
+        "category": "Grønnsaker og belgfrukter",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "382",
+        "name": "Grønnkål",
+        "fodmap": "Lav",
+        "category": "Grønnsaker og belgfrukter",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "383",
+        "name": "Limonade",
+        "fodmap": "Lav",
+        "category": "Drikkevarer",
+        "qty": "Små mengder",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "384",
+        "name": "Muskat",
+        "fodmap": "Lav",
+        "category": "Matlagingredienser, urter og krydder",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "385",
+        "name": "Kakifrukt",
+        "fodmap": "Høy",
+        "category": "Frukt",
+        "details": {
+            "oligos": 2,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "386",
+        "name": "Gurkemeie",
+        "fodmap": "Lav",
+        "category": "Grønnsaker og belgfrukter",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "387",
+        "name": "Hvetemel",
+        "fodmap": "Høy",
+        "category": "Brød, frokostblandinger, korn og pasta",
+        "details": {
+            "oligos": 2,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "388",
+        "name": "Villris",
+        "fodmap": "Lav",
+        "category": "Brød, frokostblandinger, korn og pasta",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "389",
+        "name": "Lusernspirer",
+        "fodmap": "Lav",
+        "category": "Grønnsaker og belgfrukter",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "390",
+        "name": "Amaranthmel",
+        "fodmap": "Høy",
+        "category": "Brød, frokostblandinger, korn og pasta",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "391",
+        "name": "Amaranth, puffet korn",
+        "fodmap": "Lav",
+        "category": "Brød, frokostblandinger, korn og pasta",
+        "qty": "1/4 kopp",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "392",
+        "name": "Kardemomme",
+        "fodmap": "Lav",
+        "category": "Matlagingredienser, urter og krydder",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "393",
+        "name": "Johannesbrødtrepulver",
+        "fodmap": "Høy",
+        "category": "Grønnsaker og belgfrukter",
+        "details": {
+            "oligos": 2,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "394",
+        "name": "Sikoriblader",
+        "fodmap": "Lav",
+        "category": "Grønnsaker og belgfrukter",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "395",
+        "name": "Kikerter, hermetisert",
+        "fodmap": "Lav",
+        "category": "Grønnsaker og belgfrukter",
+        "qty": "1/4 kopp",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "396",
+        "name": "Sylteagurker i eddik",
+        "fodmap": "Lav",
+        "category": "Grønnsaker og belgfrukter",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "397",
+        "name": "Litchi",
+        "fodmap": "Høy",
+        "category": "Frukt",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 2,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "398",
+        "name": "Palmesukker",
+        "fodmap": "Lav",
+        "category": "Søtstoffer",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "399",
+        "name": "Pestosaus",
+        "fodmap": "Lav",
+        "category": "Kondimenter",
+        "qty": "10g",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "400",
+        "name": "Solsikkeolje",
+        "fodmap": "Lav",
+        "category": "Matlagingredienser, urter og krydder",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "401",
+        "name": "Grits",
+        "fodmap": "Lav",
+        "category": "Brød, frokostblandinger, korn og pasta",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "402",
+        "name": "Pepperrot",
+        "fodmap": "Lav",
+        "category": "Kondimenter",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "403",
+        "name": "Kokebanan",
+        "fodmap": "Lav",
+        "category": "Frukt",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "404",
+        "name": "Ghee",
+        "fodmap": "Lav",
+        "category": "Matlagingredienser, urter og krydder",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "405",
+        "name": "Havrekake",
+        "fodmap": "Lav",
+        "category": "Brød, frokostblandinger, korn og pasta",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "406",
+        "name": "Tørkede tranebær",
+        "fodmap": "Lav",
+        "category": "Frukt",
+        "qty": "1/2 ss",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "407",
+        "name": "Solbær",
+        "fodmap": "Høy",
+        "category": "Frukt",
+        "details": {
+            "oligos": 2,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "408",
+        "name": "Vegemite",
+        "fodmap": "Lav",
+        "category": "Kondimenter",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "409",
+        "name": "Marmite",
+        "fodmap": "Lav",
+        "category": "Kondimenter",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "410",
+        "name": "Løkpulver",
+        "fodmap": "Høy",
+        "category": "Matlagingredienser, urter og krydder",
+        "details": {
+            "oligos": 2,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "411",
+        "name": "Hvitløkspulver",
+        "fodmap": "Høy",
+        "category": "Matlagingredienser, urter og krydder",
+        "details": {
+            "oligos": 2,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "412",
+        "name": "Rambutan",
+        "fodmap": "Lav",
+        "category": "Frukt",
+        "qty": "2 rambutaner",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "413",
+        "name": "Sobanudler",
+        "fodmap": "Lav",
+        "category": "Brød, frokostblandinger, korn og pasta",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "414",
+        "name": "Wasabipulver",
+        "fodmap": "Lav",
+        "category": "Kondimenter",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "415",
+        "name": "Fiken, frisk",
+        "fodmap": "Høy",
+        "category": "Frukt",
+        "details": {
+            "oligos": 0,
+            "fructose": 2,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "416",
+        "name": "Løvetann-te, svak",
+        "fodmap": "Lav",
+        "category": "Drikkevarer",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "417",
+        "name": "Hermetiske linser",
+        "fodmap": "Lav",
+        "category": "Grønnsaker og belgfrukter",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "418",
+        "name": "Mungbønner, spiret",
+        "fodmap": "Lav",
+        "category": "Grønnsaker og belgfrukter",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "419",
+        "name": "Nyrebønner, spiret",
+        "fodmap": "Høy",
+        "category": "Grønnsaker og belgfrukter",
+        "details": {
+            "oligos": 2,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "420",
+        "name": "Sorte bønner, hermetisert",
+        "fodmap": "Høy",
+        "category": "Grønnsaker og belgfrukter",
+        "details": {
+            "oligos": 2,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "421",
+        "name": "Bananer, umodne",
+        "fodmap": "Lav",
+        "category": "Frukt",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "422",
+        "name": "Bygg, spiret",
+        "fodmap": "Lav",
+        "category": "Brød, frokostblandinger, korn og pasta",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "423",
+        "name": "Bygg, mel",
+        "fodmap": "Høy",
+        "category": "Brød, frokostblandinger, korn og pasta",
+        "details": {
+            "oligos": 2,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "424",
+        "name": "Kikerter, spiret",
+        "fodmap": "Høy",
+        "category": "Grønnsaker og belgfrukter",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "425",
+        "name": "Tranebær, tørket",
+        "fodmap": "Lav",
+        "category": "Frukt",
+        "qty": "1 ss",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "426",
+        "name": "Rødkål",
+        "fodmap": "Lav",
+        "category": "Grønnsaker og belgfrukter",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "427",
+        "name": "Kakaopulver",
+        "fodmap": "Lav",
+        "category": "Matlagingredienser, urter og krydder",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "428",
+        "name": "Tranebærjuice",
+        "fodmap": "Lav",
+        "category": "Drikkevarer",
+        "qty": "250 ml",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "429",
+        "name": "Dill, frisk",
+        "fodmap": "Lav",
+        "category": "Matlagingredienser, urter og krydder",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "430",
+        "name": "Avokadoolje",
+        "fodmap": "Lav",
+        "category": "Matlagingredienser, urter og krydder",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "431",
+        "name": "Sardiner, hermetisert i olje",
+        "fodmap": "Lav",
+        "category": "Kjøtt og erstatninger",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "432",
+        "name": "Sukkererter",
+        "fodmap": "Høy",
+        "category": "Grønnsaker og belgfrukter",
+        "details": {
+            "oligos": 0,
+            "fructose": 2,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "433",
+        "name": "Rødløk",
+        "fodmap": "Høy",
+        "category": "Grønnsaker og belgfrukter",
+        "details": {
+            "oligos": 2,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "434",
+        "name": "Maisenna",
+        "fodmap": "Lav",
+        "category": "Brød, frokostblandinger, korn og pasta",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "435",
+        "name": "Teffmel",
+        "fodmap": "Lav",
+        "category": "Brød, frokostblandinger, korn og pasta",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    },
+    {
+        "id": "436",
+        "name": "Chilipulver",
+        "fodmap": "Lav",
+        "category": "Matlagingredienser, urter og krydder",
+        "details": {
+            "oligos": 0,
+            "fructose": 0,
+            "polyols": 0,
+            "lactose": 0
+        }
+    }
+]
