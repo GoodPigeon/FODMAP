@@ -3255,7 +3255,7 @@
         "id": "283",
         "name": "Brus med HFCS",
         "fodmap": "Høy",
-        "category": "Drikkevarer"
+        "category": "Drikkevarer",
         "details": {
             "oligos": 0,
             "fructose": 0,
@@ -3267,7 +3267,7 @@
         "id": "284",
         "name": "Sorbitol",
         "fodmap": "Høy",
-        "category": "Søtstoffer"
+        "category": "Søtstoffer",
         "details": {
             "oligos": 0,
             "fructose": 0,
